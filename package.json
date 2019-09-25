@@ -17,7 +17,7 @@
     "brace"
   ],
   "dependencies": {
-    "brace": "https://github.com/KemuriTechnology/brace-1.git"
+    "brace": "https://github.com/Renszk/brace-1.git"
   },
   "author": "Luventa Pan",
   "license": "MIT"
